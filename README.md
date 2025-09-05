@@ -1,6 +1,6 @@
 # NewsNexus - Smart News Analyzer & Summarizer
 
-NewsNexus is an advanced NLP-powered web application that analyzes and summarizes news articles using state-of-the-art machine learning models.
+NewsNexus is a mini project advanced NLP-powered web application that analyzes and summarizes news articles using state-of-the-art machine learning models.
 
 ## Features
 
